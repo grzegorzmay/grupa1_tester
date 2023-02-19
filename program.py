@@ -18,3 +18,8 @@ else:
     print("Jestes za mlody/a na alkohol. Zapraszamy za",a,"lat/a")
     exit
 
+plec = input ("wybierz plec K/M: ")
+if plec != 'K' and plec != 'M':exit("Musisz wybrac plec Kobieta lub Mezczyzna")
+
+if wiek > 30 and plec == 'K':
+    print ("Pierwszy Aperol Spritz gratis")
