@@ -14,3 +14,6 @@ v.1.1
 - [x] wybor regionu USA lub EUR
 - [x] obsluga wymagan specjalnych dla osob powyzej 120 lat
 - [x] poprawienie bugow z wersji 1.0
+
+v.1.2.
+-[x] poprawienie bugow z wyborem plci
